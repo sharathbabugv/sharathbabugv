@@ -1,7 +1,29 @@
-### Hi there 👋
+## Hello world 👋
+I am <b>Sharath Babu G V</b>, working on Java and Python Chatbot in a private company at Bengaluru, Karnataka. I love to contribute to `Android UI design`. I upload videos to my youtube channel, named UI Vision.
+
+
+#### Technologies I have worked on ✍️
+👉 Android<br/>
+👉 Rasa chatbot<br/>
+👉 Python<br/>
+👉 Java<br/>
+👉 Firebase<br/>
+👉 Mongo DB<br/>
+👉 Manual Testing<br/>
+👉 Automation Testing<br/>
+
+#### I have planned to contribute more on these in upcoming days 🕐
+👉 Android UI Design<br/>
+👉 Rasa Chatbot projects<br/>
+`Note: You can always find the codes here once done! 😇`
 
 <!--
 **sharathbabugv/sharathbabugv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p float="left">
+  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="36" />
+  <img src="https://i.imgur.com/G4eM3yv.png" width="24" /> 
+  <img src="https://image.flaticon.com/icons/svg/888/888839.svg" width="32" />
+</p>
 
 Here are some ideas to get you started:
 
