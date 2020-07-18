@@ -1,5 +1,5 @@
 ## Hello world 👋
-I am <b>Sharath Babu G V</b>, working on Java and Python Chatbot in a private company at Bengaluru, Karnataka. I love to contribute to `Android UI design`. I upload videos to my youtube channel, named UI Vision.
+I am <b>Sharath Babu G V</b>, working in MNC at Bengaluru, Karnataka. I love to contribute to `Android UI design`. I upload videos to my youtube channel, named UI Vision.
 
 
 #### Technologies I have worked on ✍️
