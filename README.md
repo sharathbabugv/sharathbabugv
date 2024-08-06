@@ -3,18 +3,16 @@ I am <b>Sharath Babu G V</b>, working at Bengaluru, Karnataka. I love to contrib
 
 
 #### Technologies I have worked on ✍️
-👉 Android<br/>
-👉 Rasa chatbot<br/>
-👉 Python<br/>
 👉 Java<br/>
+👉 Android<br/>
+👉 Python<br/>
 👉 Firebase<br/>
-👉 Mongo DB<br/>
-👉 Manual Testing<br/>
-👉 Automation Testing<br/>
+
 
 #### I have planned to contribute more on these in upcoming days 🕐
+👉 Java<br/>
+👉 Spring Boot Projects<br/>
 👉 Android UI Design<br/>
-👉 Rasa Chatbot projects<br/>
 
 `Note: You can always find the codes here once done! 😇`
 
