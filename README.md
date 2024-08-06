@@ -1,5 +1,5 @@
 ## Hello world 👋
-I am <b>Sharath Babu G V</b>, working at Bengaluru, Karnataka. I love to contribute to `Android UI design`. I upload videos to my youtube channel, named UI Vision.
+I am <b>Sharath Babu G V</b>, working at Bengaluru, Karnataka. I upload videos to my youtube channel, named Code Storm [https://www.youtube.com/@the_codestorm].
 
 
 #### Technologies I have worked on ✍️
@@ -13,8 +13,6 @@ I am <b>Sharath Babu G V</b>, working at Bengaluru, Karnataka. I love to contrib
 👉 Java<br/>
 👉 Spring Boot Projects<br/>
 👉 Android UI Design<br/>
-
-`Note: You can always find the codes here once done! 😇`
 
 <!--
 **sharathbabugv/sharathbabugv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
