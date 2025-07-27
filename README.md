@@ -1,5 +1,5 @@
 ## Hello world 👋
-I am <b>Sharath Babu G V</b>, working at Bengaluru, Karnataka. I upload videos to my youtube channel, named Code Storm [https://www.youtube.com/uivision].
+I am <b>Sharath Babu G V</b>, working at Bengaluru, Karnataka. I upload videos to my youtube channel, named Code Storm [https://www.youtube.com/@thecodestormYT].
 
 
 #### Technologies I have worked on ✍️
